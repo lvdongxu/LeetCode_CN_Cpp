@@ -1,7 +1,28 @@
 {
 	"folders": [
 		{
-			"path": "F:\\LeetCode\\Cpp"
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\.vscode"
+		},
+		{
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\2_addTwoNumbers"
+		},
+		{
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\3_lengthOfLongestSubstring"
+		},
+		{
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\5_longestPalindrome"
+		},
+		{
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\21_mergeTwoLists"
+		},
+		{
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\53_maxSubArray"
+		},
+		{
+			"path": "F:\\LeetCode\\LeetCode_CN_Cpp\\Valid_Parentheses"
+		},
+		{
+			"path": "."
 		}
 	],
 	"settings": {
